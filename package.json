@@ -15,6 +15,8 @@
   "dependencies": {
     "gatsby": "^2.11.7",
     "gatsby-plugin-sass": "^2.1.0",
+    "gatsby-source-filesystem": "^2.1.1",
+    "gatsby-transformer-remark": "^2.5.0",
     "node-sass": "^4.12.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"

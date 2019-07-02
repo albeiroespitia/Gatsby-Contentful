@@ -1,9 +1,12 @@
 import React from 'react'
 import Layout from '../components/Layout'
+import Head from '../components/Head'
+
 
 const ContactPage = () => {
 	return(
 		<Layout>
+			<Head title="Contact"/>
 			<h1>EaserJs</h1>
 			<p>Albeiro Espitia</p>
 			<p>albeiroespitiasierra@gmail.com</p>

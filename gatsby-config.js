@@ -5,6 +5,10 @@
  */
 
 module.exports = {
+	siteMetadata: {
+		title: 'EaserJS!',
+		author: 'Albeiro Espitia'
+	},
 	plugins: [
 		`gatsby-plugin-sass`
 	]
